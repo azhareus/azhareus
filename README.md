@@ -57,9 +57,16 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  
+  <img align="left" alt="azhareus's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=azhareus&show_icons=true&hide_border=true&count_private=true" />
 
-  <img align="left" alt="azhareus's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=azhareus&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+<summary>:zap: GitHub Stats</summary>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azhareus)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
