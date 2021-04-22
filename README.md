@@ -6,10 +6,10 @@
 ## I'm an Tech Enthusiast, Community Engager, and Life-Long Learner!!
 
 - 🔭 I am an incoming Facebook Software Engineering Intern!
-- 🌱 I’m currently learning React.js and Flutter 
+- 🌱 I’m currently learning Dart + Flutter 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I am the Google DSC Lead at Florida International University
+- ⚡ Fun fact: I am a Mobile Dev Tech Lead at DSC FIU
 
 ### Connect with me:
 
