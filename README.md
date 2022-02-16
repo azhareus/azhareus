@@ -8,7 +8,7 @@
 - 🔭 I am an incoming Facebook Software Engineer!
 - 🌱 I’m currently leveling up my skills in Native Android Development. 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects and enjoy life!
 - ⚡ Fun fact: I am a Mobile Dev Tech Lead at DSC FIU
 
 ### Connect with me:
